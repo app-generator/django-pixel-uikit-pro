@@ -1,38 +1,28 @@
 # [Django Pixel UI PRO](https://appseed.us/django/django-pixel-uikit-pro)
 
-> Seed project coded in **[Django](/what-is/django/)** Framework with basic modules, database, ORM and deployment scripts on top of [Pixel PRO](https://docs.appseed.us/bootstrap-template/pixel-pro/) design.
+**Django App** coded with basic modules, database, ORM and deployment scripts on top of **Pixel PRO** (premium version), a modern Bootstrap dashboard design. Pixel Pro is a premium Bootstrap 5 UI Kit without jQuery featuring over 1000 components, 50+ sections and 35 example pages including a fully fledged user dashboard.
 
 <br />
 
-## **[Pixel PRO](https://docs.appseed.us/bootstrap-template/pixel-pro/)** Design
+> Product Features
 
-Pixel Pro is a premium Bootstrap 5 UI Kit without jQuery featuring over 1000 components, 50+ sections and 35 example pages including a fully fledged user dashboard - provided by **[Themesberg](https://appseed.us/agency/themesberg)**. Components are a perfect extension of Bootstrap 4 so you will find it very easy to work with our code if you're familiar with their class names and styles. Furthermore, we've made sure to that all components are well documented.
-
-**Accessibility**
-
-Pixel is compliant with the latest UI design accessibility standards and passes the WAVE evaluation tool and the Achecker tool as well.
-
-<br />
-
-## Codebase Features
-
-- SQLite Database, Django Native ORM
-- Modular design, clean codebase
+- Reference Codebase - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard)
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, best practices codebase
 - Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+- Deployment scripts: Docker, Gunicorn/Nginx
+- Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
 
 <br />
 
 > Links
 
 - [Django Pixel PRO](https://appseed.us/django/django-pixel-uikit-pro) - product page
-- [Django Pixel PRO Demo](https://django-pixel-uikit-pro.appseed.us) - LIVE Deploy
-- [Django Pixel PRO Docs](https://docs.appseed.us/django/django-pixel-uikit-pro/), official product documentation
+- [Django Pixel PRO - Demo](https://django-pixel-pro.appseed-srv1.com) - LIVE Deploy
 
 <br />
 
-![Django Pixel UI PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-pixel-uikit-pro/master/media/django-pixel-uikit-pro-intro.gif)
+![Django Pixel UI PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-pixel-uikit-pro/master/media/django-pixel-uikit-pro-screen.png)
 
 <br />
 
@@ -40,8 +30,8 @@ Pixel is compliant with the latest UI design accessibility standards and passes 
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/priv-django-pixel-uikit-pro.git
-$ cd priv-django-pixel-uikit-pro
+$ git clone https://github.com/app-generator/priv-django-pixel-pro.git
+$ cd priv-django-pixel-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -149,8 +139,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/priv-django-pixel-uikit-pro.git
-$ cd priv-django-pixel-uikit-pro
+$ git clone https://github.com/app-generator/priv-django-pixel-pro.git
+$ cd priv-django-pixel-pro
 ```
 
 > Start the app in Docker
