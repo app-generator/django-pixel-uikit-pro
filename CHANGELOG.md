@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.2] 2021-07-01
+
+- Bump UI: Pixel Pro Bootstrap 5 - v5.4.0
+- Added scripts to recompile SCSS
+    - `app/static/assets`: Gulp toolchain
+
 ## [1.0.1] 2021-01-23
 ### Improvements
 
